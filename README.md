@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Kemal 👋😊
 
-<!--
-**Kvark900/Kvark900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love Java ☕
 
-Here are some ideas to get you started:
+### Get in touch:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemal-%C5%BEigovi%C4%87-253384140/) &nbsp;
+<a href="mailto:kemal.zigovic@hotmail.com"><img src="https://img.shields.io/badge/-kemal.zigovic@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+### My Github Dashboard:
+
+<a href="https://github.com/kvark900">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvark900&count_private=true&layout=compact" alt="Most used languages" />
+</a>
+

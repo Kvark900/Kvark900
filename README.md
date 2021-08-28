@@ -1,7 +1,3 @@
-### Hi there, I'm Kemal 👋😊
-
-I love Java ☕
-
 ### Get in touch:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemal-%C5%BEigovi%C4%87-253384140/) &nbsp;
